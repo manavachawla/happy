@@ -18,3 +18,11 @@ body {
   background-size: cover;
   background-position: center;
 }
+
+a {
+  color: firebrick;
+  display: block;
+  background-color: rgba(255,255,255, 0.5);
+  width: 25%;
+  margin: 0 auto;
+}
